@@ -1,0 +1,21 @@
+  GNU nano 7.2                                       docker-compose.yml                                                 version: "3.8"
+
+services:
+  openems-edge:
+    image: my-openems-edge
+    container_name: openems_edge
+    restart: unless-stopped
+    devices:
+      - "/dev/ttyUSB0:/dev/ttyUSB0"
+    volumes:
+      - openems-edge-conf:/etc/openems.d:rw
+      - openems-edge-data:/var/opt/openems/data:rw
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+
+volumes:
+  openems-edge-conf:
+  openems-edge-data:
+
+

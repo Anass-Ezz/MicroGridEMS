@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.google.common.base.Optional"/>
+    <fullyQualifiedTypeName name="com.sun.jdi.Value"/>
+    <fullyQualifiedTypeName name="io.openems.common.channel.AccessMode"/>
+    <fullyQualifiedTypeName name="io.openems.common.channel.Unit"/>
+    <fullyQualifiedTypeName name="io.openems.edge.ess.xstorage.XStorageEss"/>
+    <fullyQualifiedTypeName name="io.openems.edge.common.taskmanager.Priority"/>
+    <fullyQualifiedTypeName name="io.openems.edge.ess.api.XstorageEss"/>
+    <fullyQualifiedTypeName name="io.openems.common.types.MeterType"/>
+</qualifiedTypeNameHistroy>

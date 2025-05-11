@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/io/openems/edge/ess/xstorage/Config.java=UTF-8
+encoding//src/io/openems/edge/ess/xstorage/MyModbusDeviceImpl.java=UTF-8
+encoding//src/io/openems/edge/ess/xstorage/XStorageEss.java=UTF-8
+encoding//src/io/openems/edge/ess/xstorage/XstorageEssImpl.java=UTF-8
+encoding//test/io/openems/edge/ess/xstorage/MyConfig.java=UTF-8
+encoding//test/io/openems/edge/ess/xstorage/MyModbusDeviceTest.java=UTF-8
+encoding/<project>=UTF-8
+encoding/bnd.bnd=UTF-8
+encoding/readme.adoc=UTF-8
