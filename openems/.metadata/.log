@@ -4709,3 +4709,2227 @@ java.io.FileNotFoundException:
 
 !ENTRY bndtools.core 1 0 2025-05-11 15:50:45.652
 !MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:09:42.906
+!MESSAGE Download https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.9/jackson-databind-2.9.9-sources.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:09:43.397
+!MESSAGE Download https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.9/jackson-databind-2.9.9-sources.jar.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:25.317
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:25.574
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:26.452
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/mongodb/bson/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:26.879
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcutil-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:27.379
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:27.384
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:27.431
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:27.514
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:27.597
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:28.187
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:28.196
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:28.440
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:28.516
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:28.897
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:29.057
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:29.225
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:29.229
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:29.563
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:29.609
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:31.663
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:31.695
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:35.760
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:19:35.792
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:08.109
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:08.298
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:09.666
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:09.668
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:09.912
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:09.935
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:09.935
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:09.971
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:10.195
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:10.221
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:10.316
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:10.391
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:10.403
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:10.677
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:10.732
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:10.764
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:10.850
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:10.850
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:10.896
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:11.463
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:11.511
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:13.559
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:13.607
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:17.655
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:24:17.702
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:13.117
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:13.355
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:14.397
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:14.398
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:14.634
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:14.679
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:14.850
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:14.977
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:14.979
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:14.979
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:15.035
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:15.130
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:15.259
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:15.489
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:15.654
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:15.654
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:16.081
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:16.127
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:18.168
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:18.210
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:22.253
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-12 01:38:22.300
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+!SESSION 2025-05-14 12:38:27.720 -----------------------------------------------
+eclipse.buildId=4.36.0.20250410-0643
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-14 12:38:32.773
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-14 12:38:39.987
+!MESSAGE Logback config file: C:\Users\Administrator\EMS\openems\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-14 12:38:45.366
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-05-14 12:38:45.454
+!MESSAGE Removing PartDescriptorImpl with the "bndtools.openAIView" id and the "OpenAI" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:46.629
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:46.945
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:47.659
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/mongodb/bson/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:48.044
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcutil-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:48.417
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:48.514
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:48.592
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:48.592
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:48.666
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:49.249
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:49.294
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:49.501
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:49.574
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:50.325
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:50.496
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:50.661
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:50.663
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:50.710
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:50.731
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:50.868
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:52.913
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:52.958
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:57.003
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:38:57.048
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:10.347
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:10.348
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:10.414
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:10.422
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:10.462
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:10.612
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:10.655
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:10.734
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:10.735
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:11.657
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:11.703
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:13.765
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:13.811
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:17.855
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-14 12:39:17.901
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY org.eclipse.jdt.ui 4 2 2025-05-14 15:26:48.263
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to get bundle org.mongodb.mongo-java-driver 3.12.14 java.lang.InterruptedException
+	at org.bndtools.core.editors.quickfix.BuildpathQuickFixProcessor.lambda$doAddProposals$8(BuildpathQuickFixProcessor.java:809)
+	at aQute.bnd.result.Err.orElseThrow(Err.java:117)
+	at org.bndtools.core.editors.quickfix.BuildpathQuickFixProcessor.doAddProposals(BuildpathQuickFixProcessor.java:809)
+	at org.bndtools.core.editors.quickfix.BuildpathQuickFixProcessor.addProposals(BuildpathQuickFixProcessor.java:798)
+	at org.bndtools.core.editors.quickfix.BuildpathQuickFixProcessor.addProposals(BuildpathQuickFixProcessor.java:780)
+	at org.bndtools.core.editors.quickfix.BuildpathQuickFixProcessor.addProposalsForType(BuildpathQuickFixProcessor.java:718)
+	at org.bndtools.core.editors.quickfix.BuildpathQuickFixProcessor.getCorrections(BuildpathQuickFixProcessor.java:590)
+	at org.bndtools.core.editors.quickfix.facade.QuickFixProcessorFacade.lambda$getCorrections$1(QuickFixProcessorFacade.java:49)
+	at aQute.bnd.exceptions.FunctionWithException.lambda$orElseThrow$0(FunctionWithException.java:21)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:215)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:215)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:570)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:636)
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:291)
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:656)
+	at org.bndtools.core.editors.quickfix.facade.QuickFixProcessorFacade.getCorrections(QuickFixProcessorFacade.java:52)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionCollector.safeRun(JavaCorrectionProcessor.java:381)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.run(JavaCorrectionProcessor.java:341)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.process(JavaCorrectionProcessor.java:336)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor.collectCorrections(JavaCorrectionProcessor.java:465)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.getJavaAnnotationFixes(ProblemHover.java:115)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.computeCompletionProposals(ProblemHover.java:89)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.<init>(ProblemHover.java:74)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover.createAnnotationInfo(ProblemHover.java:178)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover.getHoverInfo2(AbstractAnnotationHover.java:754)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SUBENTRY 1 bndtools.core.services 4 0 2025-05-14 15:26:48.266
+!MESSAGE Failed to get bundle org.mongodb.mongo-java-driver 3.12.14 java.lang.InterruptedException
+!SUBENTRY 1 bndtools.core.services 4 0 2025-05-14 15:26:48.266
+!MESSAGE Failed to get bundle org.mongodb.mongo-java-driver 3.12.14 java.lang.InterruptedException
+!SESSION 2025-05-15 13:27:04.358 -----------------------------------------------
+eclipse.buildId=4.36.0.20250410-0643
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-15 13:27:09.955
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-15 13:27:20.905
+!MESSAGE Logback config file: C:\Users\Administrator\EMS\openems\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-15 13:27:30.219
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-05-15 13:27:30.350
+!MESSAGE Removing PartDescriptorImpl with the "bndtools.openAIView" id and the "OpenAI" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:32.563
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:32.983
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:34.071
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/mongodb/bson/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:34.610
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcutil-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:35.197
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:35.712
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:35.836
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:35.940
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:35.954
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:36.017
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:36.916
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:37.042
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:37.218
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:37.220
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:37.341
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:37.563
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:37.663
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:37.856
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:37.857
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:38.144
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:38.236
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:38.316
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:38.559
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:40.388
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:40.458
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:44.525
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:27:44.593
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:31.021
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:39.641
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:39.653
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:39.791
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:39.816
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:39.892
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:39.947
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:40.133
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:40.349
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:40.350
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:40.619
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:40.626
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:41.613
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:41.688
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:43.834
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:43.910
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:47.999
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-15 13:28:48.066
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+!SESSION 2025-05-16 12:28:39.317 -----------------------------------------------
+eclipse.buildId=4.36.0.20250410-0643
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-16 12:28:48.507
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-05-16 12:28:57.415
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-16 12:28:59.784
+!MESSAGE Logback config file: C:\Users\Administrator\EMS\openems\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-16 12:29:11.631
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-05-16 12:29:11.801
+!MESSAGE Removing PartDescriptorImpl with the "bndtools.openAIView" id and the "OpenAI" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:14.037
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:15.235
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:17.157
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/mongodb/bson/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:18.145
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcutil-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:18.837
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:19.331
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:19.355
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:19.407
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:19.799
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:20.271
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:20.478
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:20.606
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:21.024
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:22.305
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:22.307
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:22.526
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:22.748
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:22.957
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:22.959
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:24.604
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:24.677
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:28.756
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:28.826
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:35.749
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:35.754
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:35.821
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:35.832
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:35.856
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:36.028
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:36.111
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:36.147
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:36.341
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:36.343
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:36.416
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:37.212
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:37.283
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:39.357
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:39.426
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:43.504
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-16 12:29:43.573
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+!SESSION 2025-05-19 13:18:00.703 -----------------------------------------------
+eclipse.buildId=4.36.0.20250410-0643
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-19 13:18:11.601
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-05-19 13:18:19.875
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-19 13:18:22.175
+!MESSAGE Logback config file: C:\Users\Administrator\EMS\openems\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-19 13:18:40.265
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-05-19 13:18:40.484
+!MESSAGE Removing PartDescriptorImpl with the "bndtools.openAIView" id and the "OpenAI" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:43.610
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:52.133
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:54.197
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/mongodb/bson/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:55.608
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcutil-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:56.535
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:56.603
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:57.090
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:57.123
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:57.369
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:58.595
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:58.807
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:59.009
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:18:59.201
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:00.197
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:00.309
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:02.414
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:02.421
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:02.686
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:02.764
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:03.148
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:03.149
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:03.238
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:03.245
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:06.857
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:06.965
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:17.420
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:17.432
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:18.001
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:18.016
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:18.147
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:18.263
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:18.642
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:18.743
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:19.364
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:19.457
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:21.545
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:21.644
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:25.727
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:19:26.041
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+!SESSION 2025-05-19 13:22:58.356 -----------------------------------------------
+eclipse.buildId=4.36.0.20250410-0643
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-19 13:23:01.946
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-05-19 13:23:05.971
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-19 13:23:06.968
+!MESSAGE Logback config file: C:\Users\Administrator\EMS\openems\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-19 13:23:15.003
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-05-19 13:23:15.098
+!MESSAGE Removing PartDescriptorImpl with the "bndtools.openAIView" id and the "OpenAI" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:16.480
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:17.171
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:19.358
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:19.365
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:19.507
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:19.581
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:19.676
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:19.787
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:19.803
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:19.895
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:20.122
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:20.187
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:20.276
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:20.365
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:20.386
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:20.458
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:20.464
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:21.024
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:21.100
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:23.178
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:23.252
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:27.336
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:27.400
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:30.456
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:30.787
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:30.789
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:30.910
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:30.962
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:30.989
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:31.059
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:31.321
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:31.357
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:31.426
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:31.525
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:31.525
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:32.418
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:32.497
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:34.580
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:34.658
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:38.744
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-19 13:23:38.825
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY org.eclipse.core.jobs 4 2 2025-05-20 01:26:41.370
+!MESSAGE IJobChangeListener timeout detected. Further calls to IJobChangeListener may occur in random order and join(family) can return too soon. IJobChangeListener should return within 3000 ms. IJobChangeListener methods should not block. Possible deadlock.
+!STACK 0
+java.util.concurrent.TimeoutException: IJobChangeListener timeout detected. Further calls to IJobChangeListener may occur in random order and join(family) can return too soon. IJobChangeListener should return within 3000 ms. IJobChangeListener methods should not block. Possible deadlock.
+	at org.eclipse.core.internal.jobs.JobListeners.waitAndSendEvents(JobListeners.java:106)
+	at org.eclipse.core.internal.jobs.JobManager.startJob(JobManager.java:1788)
+	at org.eclipse.core.internal.jobs.WorkerPool.startJob(WorkerPool.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SUBENTRY 1 org.eclipse.core.jobs 4 2 2025-05-20 01:26:41.373
+!MESSAGE Thread that is running the IJobChangeListener: Output Stream Monitor for PID 19480 EdgeApp.bndrun
+	at org.eclipse.swt.internal.win32.OS.PostThreadMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.wakeThread(Display.java:5103)
+	at org.eclipse.swt.widgets.Synchronizer.addLast(Synchronizer.java:79)
+	at org.eclipse.swt.widgets.Synchronizer.asyncExec(Synchronizer.java:101)
+	at org.eclipse.ui.internal.UISynchronizer.asyncExec(UISynchronizer.java:112)
+	at org.eclipse.swt.widgets.Display.asyncExec(Display.java:805)
+	at org.eclipse.jface.util.Throttler.throttledExec(Throttler.java:123)
+	at org.eclipse.jface.util.Throttler.throttledExec(Throttler.java:100)
+	at org.eclipse.ui.internal.progress.ProgressManager.addJobInfo(ProgressManager.java:709)
+	at org.eclipse.ui.internal.progress.ProgressManager$1.updateFor(ProgressManager.java:500)
+	at org.eclipse.ui.internal.progress.ProgressManager$1.scheduled(ProgressManager.java:474)
+	at org.eclipse.core.internal.jobs.JobListeners.sendEvent(JobListeners.java:153)
+	at org.eclipse.core.internal.jobs.JobListeners.sendEventsAsync(JobListeners.java:140)
+	at org.eclipse.core.internal.jobs.JobListeners.waitAndSendEvents(JobListeners.java:80)
+	at org.eclipse.core.internal.jobs.JobManager.withWriteLock(JobManager.java:551)
+	at org.eclipse.core.internal.jobs.JobManager.schedule(JobManager.java:1409)
+	at org.eclipse.core.internal.jobs.InternalJob.schedule(InternalJob.java:396)
+	at org.eclipse.core.runtime.jobs.Job.schedule(Job.java:654)
+	at org.eclipse.ui.internal.console.IOConsolePartitioner.streamAppended(IOConsolePartitioner.java:698)
+	at org.eclipse.ui.console.IOConsoleOutputStream.notifyParitioner(IOConsoleOutputStream.java:281)
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:276)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:260)
+	at org.eclipse.debug.internal.ui.views.console.ProcessConsole$StreamListener.streamAppended(ProcessConsole.java:838)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:171)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.fireStreamAppended(OutputStreamMonitor.java:168)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.internalRead(OutputStreamMonitor.java:256)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:225)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+All thread infos: 
+"main" prio=6 Id=1 RUNNABLE
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3722)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:678)
+	at org.eclipse.ui.internal.Workbench$$Lambda/0x000001f71d28e0b0.run(Unknown Source)
+	...
+
+"Reference Handler" daemon prio=10 Id=9 RUNNABLE
+	at java.base@23.0.2/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	at java.base@23.0.2/java.lang.ref.Reference.processPendingReferences(Reference.java:246)
+	at java.base@23.0.2/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:208)
+
+"Finalizer" daemon prio=8 Id=10 WAITING on java.lang.ref.NativeReferenceQueue$Lock@3bfd39a5
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on java.lang.ref.NativeReferenceQueue$Lock@3bfd39a5
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:352)
+	at java.base@23.0.2/java.lang.ref.NativeReferenceQueue.await(NativeReferenceQueue.java:48)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:166)
+	at java.base@23.0.2/java.lang.ref.NativeReferenceQueue.remove(NativeReferenceQueue.java:89)
+	at java.base@23.0.2/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:173)
+
+"Signal Dispatcher" daemon prio=9 Id=11 RUNNABLE
+
+"Attach Listener" daemon prio=5 Id=12 RUNNABLE
+
+"Common-Cleaner" daemon prio=8 Id=20 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@661046f0
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@661046f0
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1852)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:79)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:151)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:229)
+	at java.base@23.0.2/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+	at java.base@23.0.2/java.lang.Thread.runWith(Thread.java:1588)
+	...
+
+"Notification Thread" daemon prio=9 Id=21 RUNNABLE
+
+"Active Thread: Equinox Container: e290207b-25f6-44e0-8556-5ec075775dc9" prio=5 Id=32 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@425d82ca
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@425d82ca
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1763)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	...
+
+"Framework Event Dispatcher: Equinox Container: e290207b-25f6-44e0-8556-5ec075775dc9" daemon prio=5 Id=34 WAITING on org.eclipse.osgi.framework.eventmgr.EventManager$EventThread@493f86b
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.osgi.framework.eventmgr.EventManager$EventThread@493f86b
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:352)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.getNextEvent(EventManager.java:396)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:337)
+
+"Start Level: Equinox Container: e290207b-25f6-44e0-8556-5ec075775dc9" daemon prio=5 Id=35 WAITING on org.eclipse.osgi.framework.eventmgr.EventManager$EventThread@5cc18bd2
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.osgi.framework.eventmgr.EventManager$EventThread@5cc18bd2
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:352)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.getNextEvent(EventManager.java:396)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:337)
+
+"Bundle File Closer" daemon prio=5 Id=37 WAITING on org.eclipse.osgi.framework.eventmgr.EventManager$EventThread@42da1b39
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.osgi.framework.eventmgr.EventManager$EventThread@42da1b39
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:352)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.getNextEvent(EventManager.java:396)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:337)
+
+"SCR Component Actor" daemon prio=5 Id=38 WAITING on java.util.LinkedList@2699e254
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on java.util.LinkedList@2699e254
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:352)
+	at org.apache.felix.scr.impl.ComponentActorThread.run(ComponentActorThread.java:83)
+	at java.base@23.0.2/java.lang.Thread.runWith(Thread.java:1588)
+	at java.base@23.0.2/java.lang.Thread.run(Thread.java:1575)
+
+"EMF Reference Cleaner" daemon prio=5 Id=40 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@8fc6f9f
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@8fc6f9f
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4023)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3969)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:75)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:166)
+	...
+
+"Worker-JM" prio=5 Id=42 WAITING on java.util.ArrayList@13378e4b
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on java.util.ArrayList@13378e4b
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.core.internal.jobs.InternalWorker.run(InternalWorker.java:61)
+
+"Gogo shell" prio=5 Id=45 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1265cc7
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1265cc7
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4023)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3969)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
+	at java.base@23.0.2/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+	...
+
+"SWTResourceTracker" daemon prio=8 Id=48 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@68c495f5
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@68c495f5
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1852)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:79)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:151)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:229)
+	at java.base@23.0.2/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+	at java.base@23.0.2/java.lang.Thread.runWith(Thread.java:1588)
+	...
+
+"JNA Cleaner" daemon prio=6 Id=49 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@32f8fe5
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@32f8fe5
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1852)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:79)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:151)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:229)
+	at com.sun.jna.internal.Cleaner$CleanerThread.run(Cleaner.java:154)
+
+"Git Repository Closer" daemon prio=6 Id=51 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2cc51c1d
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2cc51c1d
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4023)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3969)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:75)
+	at java.base@23.0.2/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:166)
+	...
+
+"logback-1" daemon prio=5 Id=52 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1f36ad26
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1f36ad26
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1763)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	...
+
+"Java indexing" daemon prio=4 Id=54 WAITING on org.eclipse.jdt.internal.core.search.indexing.IndexManager@5311e808
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.jdt.internal.core.search.indexing.IndexManager@5311e808
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:352)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:502)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager$$Lambda/0x000001f71d6ae8d8.run(Unknown Source)
+	at java.base@23.0.2/java.lang.Thread.runWith(Thread.java:1588)
+	at java.base@23.0.2/java.lang.Thread.run(Thread.java:1575)
+
+"EventAdmin Async Event Dispatcher Thread" daemon prio=6 Id=58 WAITING on org.eclipse.osgi.framework.eventmgr.EventManager$EventThread@2c3e0528
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.osgi.framework.eventmgr.EventManager$EventThread@2c3e0528
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:352)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.getNextEvent(EventManager.java:396)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:337)
+
+"pool-5-thread-1" prio=5 Id=74 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@289fc146
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@289fc146
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4023)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3969)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
+	at java.base@23.0.2/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+	...
+
+"pool-6-thread-1" prio=5 Id=75 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2ea06ee
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2ea06ee
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4023)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3969)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
+	at java.base@23.0.2/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+	...
+
+"Bnd-ScheduledExecutor,pool-3-thread-1" daemon prio=5 Id=77 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5ee7ff13
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5ee7ff13
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4023)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3969)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1177)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	...
+
+"Bnd-ScheduledExecutor,pool-3-thread-7" daemon prio=5 Id=83 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5ee7ff13
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5ee7ff13
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1763)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	...
+
+"Bnd-PromiseScheduledExecutor,pool-3-thread-9" daemon prio=5 Id=85 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2aca6a2
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2aca6a2
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4023)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3969)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1177)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	...
+
+"Bnd-PromiseScheduledExecutor,pool-3-thread-12" daemon prio=5 Id=88 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2aca6a2
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2aca6a2
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4023)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3969)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	...
+
+"Bnd-Executor,pool-3-thread-115" daemon prio=5 Id=193 WAITING on java.util.concurrent.SynchronousQueue$Transferer@54efc240
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$Transferer@54efc240
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.LinkedTransferQueue$DualNode.await(LinkedTransferQueue.java:458)
+	at java.base@23.0.2/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(SynchronousQueue.java:194)
+	at java.base@23.0.2/java.util.concurrent.SynchronousQueue.xfer(SynchronousQueue.java:235)
+	at java.base@23.0.2/java.util.concurrent.SynchronousQueue.take(SynchronousQueue.java:318)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	...
+
+"Bnd-Executor,pool-3-thread-257" daemon prio=5 Id=335 WAITING on java.util.concurrent.SynchronousQueue$Transferer@54efc240
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$Transferer@54efc240
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.LinkedTransferQueue$DualNode.await(LinkedTransferQueue.java:458)
+	at java.base@23.0.2/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(SynchronousQueue.java:194)
+	at java.base@23.0.2/java.util.concurrent.SynchronousQueue.xfer(SynchronousQueue.java:235)
+	at java.base@23.0.2/java.util.concurrent.SynchronousQueue.take(SynchronousQueue.java:318)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	...
+
+"Worker-15" prio=5 Id=340 RUNNABLE
+	at java.management@23.0.2/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@23.0.2/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:518)
+	at java.management@23.0.2/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:506)
+	at org.eclipse.core.internal.jobs.JobListeners.waitAndSendEvents(JobListeners.java:120)
+	at org.eclipse.core.internal.jobs.JobManager.startJob(JobManager.java:1788)
+	at org.eclipse.core.internal.jobs.WorkerPool.startJob(WorkerPool.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+"Provisioning Event Dispatcher" daemon prio=5 Id=368 WAITING on org.eclipse.osgi.framework.eventmgr.EventManager$EventThread@6607345
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.osgi.framework.eventmgr.EventManager$EventThread@6607345
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:352)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.getNextEvent(EventManager.java:396)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:337)
+
+"Thread-10" prio=5 Id=376 TIMED_WAITING
+	at java.base@23.0.2/java.lang.Thread.sleepNanos0(Native Method)
+	at java.base@23.0.2/java.lang.Thread.sleepNanos(Thread.java:496)
+	at java.base@23.0.2/java.lang.Thread.sleep(Thread.java:527)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+"logback-2" daemon prio=5 Id=410 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1f36ad26
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1f36ad26
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4023)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3969)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1177)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	...
+
+"logback-3" daemon prio=5 Id=413 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1f36ad26
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1f36ad26
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4023)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3969)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1177)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	...
+
+"logback-4" daemon prio=5 Id=414 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1f36ad26
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1f36ad26
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4023)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3969)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1177)
+	at java.base@23.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	...
+
+"Worker-35" prio=5 Id=430 TIMED_WAITING on org.eclipse.core.internal.jobs.WorkerPool@671e1bfd
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.core.internal.jobs.WorkerPool@671e1bfd
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.core.internal.jobs.WorkerPool.sleep(WorkerPool.java:200)
+	at org.eclipse.core.internal.jobs.WorkerPool.startJob(WorkerPool.java:242)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+"Worker-36: Process Console Input Job" prio=5 Id=431 WAITING on org.eclipse.ui.console.IOConsoleInputStream@e0280a
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.ui.console.IOConsoleInputStream@e0280a
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:352)
+	at org.eclipse.ui.console.IOConsoleInputStream.waitForData(IOConsoleInputStream.java:140)
+	at org.eclipse.ui.console.IOConsoleInputStream.read(IOConsoleInputStream.java:91)
+	at org.eclipse.ui.console.IOConsoleInputStream.read(IOConsoleInputStream.java:113)
+	at org.eclipse.debug.internal.ui.views.console.ProcessConsole$InputReadJob.run(ProcessConsole.java:937)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+"Worker-40" prio=5 Id=446 TIMED_WAITING on org.eclipse.core.internal.jobs.WorkerPool@671e1bfd
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.core.internal.jobs.WorkerPool@671e1bfd
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.core.internal.jobs.WorkerPool.sleep(WorkerPool.java:200)
+	at org.eclipse.core.internal.jobs.WorkerPool.startJob(WorkerPool.java:242)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+"Worker-41" prio=5 Id=447 TIMED_WAITING on org.eclipse.core.internal.jobs.WorkerPool@671e1bfd
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.core.internal.jobs.WorkerPool@671e1bfd
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.core.internal.jobs.WorkerPool.sleep(WorkerPool.java:200)
+	at org.eclipse.core.internal.jobs.WorkerPool.startJob(WorkerPool.java:242)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+"org.eclipse.jdt.internal.ui.text.JavaReconciler" daemon prio=1 Id=448 TIMED_WAITING on org.eclipse.jface.text.reconciler.DirtyRegionQueue@2ab70794
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.jface.text.reconciler.DirtyRegionQueue@2ab70794
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler.delay(AbstractReconciler.java:572)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:181)
+
+"org.eclipse.jdt.internal.ui.text.JavaReconciler" daemon prio=1 Id=465 TIMED_WAITING on org.eclipse.jface.text.reconciler.DirtyRegionQueue@2fc8a3dc
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.jface.text.reconciler.DirtyRegionQueue@2fc8a3dc
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler.delay(AbstractReconciler.java:572)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:181)
+
+"pool-7-thread-1" prio=5 Id=469 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@381e842b
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@381e842b
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4023)
+	at java.base@23.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3969)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
+	at java.base@23.0.2/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+	at java.base@23.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+	...
+
+"org.eclipse.jdt.internal.ui.text.JavaReconciler" daemon prio=1 Id=570 TIMED_WAITING on org.eclipse.jface.text.reconciler.DirtyRegionQueue@393f4b5a
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.jface.text.reconciler.DirtyRegionQueue@393f4b5a
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler.delay(AbstractReconciler.java:572)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:181)
+
+"org.eclipse.jdt.internal.ui.text.JavaReconciler" daemon prio=1 Id=749 TIMED_WAITING on org.eclipse.jface.text.reconciler.DirtyRegionQueue@2b26604e
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.jface.text.reconciler.DirtyRegionQueue@2b26604e
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler.delay(AbstractReconciler.java:572)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:181)
+
+"Thread-127" prio=5 Id=754 RUNNABLE (in native)
+	at java.base@23.0.2/sun.nio.ch.DatagramChannelImpl.receive0(Native Method)
+	at java.base@23.0.2/sun.nio.ch.DatagramChannelImpl.receiveIntoNativeBuffer(DatagramChannelImpl.java:819)
+	at java.base@23.0.2/sun.nio.ch.DatagramChannelImpl.receive(DatagramChannelImpl.java:791)
+	at java.base@23.0.2/sun.nio.ch.DatagramChannelImpl.tryBlockingReceive(DatagramChannelImpl.java:752)
+	at java.base@23.0.2/sun.nio.ch.DatagramChannelImpl.blockingReceive(DatagramChannelImpl.java:693)
+	at java.base@23.0.2/sun.nio.ch.DatagramSocketAdaptor.receive(DatagramSocketAdaptor.java:204)
+	at java.base@23.0.2/java.net.DatagramSocket.receive(DatagramSocket.java:718)
+	at aQute.launcher.plugin.ProjectLauncherImpl.lambda$getConstants$0(ProjectLauncherImpl.java:253)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@411ae0b5
+
+"Process monitor for PID 18972 BackendApp.bndrun" daemon prio=5 Id=756 RUNNABLE (in native)
+	at java.base@23.0.2/java.lang.ProcessImpl.waitForInterruptibly(Native Method)
+	at java.base@23.0.2/java.lang.ProcessImpl.waitFor(ProcessImpl.java:575)
+	at org.eclipse.debug.core.model.RuntimeProcess$ProcessMonitorThread.run(RuntimeProcess.java:527)
+
+"Output Stream Monitor for PID 18972 BackendApp.bndrun" daemon prio=1 Id=757 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@40fa84b9
+	at java.base@23.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@40fa84b9
+	at java.base@23.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@23.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1763)
+	at java.base@23.0.2/java.util.concurrent.LinkedBlockingQueue.offer(LinkedBlockingQueue.java:378)
+	at org.eclipse.ui.internal.console.IOConsolePartitioner.offer(IOConsolePartitioner.java:712)
+	at org.eclipse.ui.internal.console.IOConsolePartitioner.streamAppended(IOConsolePartitioner.java:695)
+	at org.eclipse.ui.console.IOConsoleOutputStream.notifyParitioner(IOConsoleOutputStream.java:281)
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:276)
+	-  locked org.eclipse.ui.console.IOConsoleOutputStream@d690b61
+	...
+
+"Error Stream Monitor for PID 18972 BackendApp.bndrun" daemon prio=1 Id=758 RUNNABLE (in native)
+	at java.base@23.0.2/java.io.FileInputStream.readBytes(Native Method)
+	at java.base@23.0.2/java.io.FileInputStream.read(FileInputStream.java:328)
+	at java.base@23.0.2/java.lang.Process$PipeInputStream.read(Process.java:868)
+	at java.base@23.0.2/java.io.BufferedInputStream.read1(BufferedInputStream.java:345)
+	at java.base@23.0.2/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base@23.0.2/java.io.BufferedInputStream.read(BufferedInputStream.java:399)
+	at java.base@23.0.2/java.io.FilterInputStream.read(FilterInputStream.java:95)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.internalRead(OutputStreamMonitor.java:249)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@58dadc4
+
+"Input Stream Monitor for PID 18972 BackendApp.bndrun" daemon prio=5 Id=759 WAITING on java.lang.Object@34534ee4
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on java.lang.Object@34534ee4
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:352)
+	at org.eclipse.debug.internal.core.InputStreamMonitor.writeNext(InputStreamMonitor.java:204)
+	at org.eclipse.debug.internal.core.InputStreamMonitor.write(InputStreamMonitor.java:176)
+	at org.eclipse.debug.internal.core.InputStreamMonitor$$Lambda/0x000001f71e132000.run(Unknown Source)
+	at java.base@23.0.2/java.lang.Thread.runWith(Thread.java:1588)
+	at java.base@23.0.2/java.lang.Thread.run(Thread.java:1575)
+
+"Worker-44: Process Console Input Job" prio=5 Id=769 WAITING on org.eclipse.ui.console.IOConsoleInputStream@7c247e6d
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.ui.console.IOConsoleInputStream@7c247e6d
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:352)
+	at org.eclipse.ui.console.IOConsoleInputStream.waitForData(IOConsoleInputStream.java:140)
+	at org.eclipse.ui.console.IOConsoleInputStream.read(IOConsoleInputStream.java:91)
+	at org.eclipse.ui.console.IOConsoleInputStream.read(IOConsoleInputStream.java:113)
+	at org.eclipse.debug.internal.ui.views.console.ProcessConsole$InputReadJob.run(ProcessConsole.java:937)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+"org.eclipse.jdt.internal.ui.text.JavaReconciler" daemon prio=1 Id=770 TIMED_WAITING on org.eclipse.jface.text.reconciler.DirtyRegionQueue@68eff21c
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.jface.text.reconciler.DirtyRegionQueue@68eff21c
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler.delay(AbstractReconciler.java:572)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:181)
+
+"org.eclipse.jdt.internal.ui.text.JavaReconciler" daemon prio=1 Id=790 TIMED_WAITING on org.eclipse.jface.text.reconciler.DirtyRegionQueue@e48148
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.jface.text.reconciler.DirtyRegionQueue@e48148
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler.delay(AbstractReconciler.java:572)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:181)
+
+"Thread-637" prio=5 Id=1366 RUNNABLE (in native)
+	at java.base@23.0.2/sun.nio.ch.DatagramChannelImpl.receive0(Native Method)
+	at java.base@23.0.2/sun.nio.ch.DatagramChannelImpl.receiveIntoNativeBuffer(DatagramChannelImpl.java:819)
+	at java.base@23.0.2/sun.nio.ch.DatagramChannelImpl.receive(DatagramChannelImpl.java:791)
+	at java.base@23.0.2/sun.nio.ch.DatagramChannelImpl.tryBlockingReceive(DatagramChannelImpl.java:752)
+	at java.base@23.0.2/sun.nio.ch.DatagramChannelImpl.blockingReceive(DatagramChannelImpl.java:693)
+	at java.base@23.0.2/sun.nio.ch.DatagramSocketAdaptor.receive(DatagramSocketAdaptor.java:204)
+	at java.base@23.0.2/java.net.DatagramSocket.receive(DatagramSocket.java:718)
+	at aQute.launcher.plugin.ProjectLauncherImpl.lambda$getConstants$0(ProjectLauncherImpl.java:253)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@2e6ecbde
+
+"Process monitor for PID 19480 EdgeApp.bndrun" daemon prio=5 Id=1368 RUNNABLE (in native)
+	at java.base@23.0.2/java.lang.ProcessImpl.waitForInterruptibly(Native Method)
+	at java.base@23.0.2/java.lang.ProcessImpl.waitFor(ProcessImpl.java:575)
+	at org.eclipse.debug.core.model.RuntimeProcess$ProcessMonitorThread.run(RuntimeProcess.java:527)
+
+"Output Stream Monitor for PID 19480 EdgeApp.bndrun" daemon prio=1 Id=1369 RUNNABLE
+	at java.base@23.0.2/java.io.FileInputStream.readBytes(Native Method)
+	at java.base@23.0.2/java.io.FileInputStream.read(FileInputStream.java:328)
+	at java.base@23.0.2/java.lang.Process$PipeInputStream.read(Process.java:868)
+	at java.base@23.0.2/java.io.BufferedInputStream.read1(BufferedInputStream.java:345)
+	at java.base@23.0.2/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base@23.0.2/java.io.BufferedInputStream.read(BufferedInputStream.java:399)
+	at java.base@23.0.2/java.io.FilterInputStream.read(FilterInputStream.java:95)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.internalRead(OutputStreamMonitor.java:249)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@71661f68
+
+"Error Stream Monitor for PID 19480 EdgeApp.bndrun" daemon prio=1 Id=1370 RUNNABLE (in native)
+	at java.base@23.0.2/java.io.FileInputStream.readBytes(Native Method)
+	at java.base@23.0.2/java.io.FileInputStream.read(FileInputStream.java:328)
+	at java.base@23.0.2/java.lang.Process$PipeInputStream.read(Process.java:868)
+	at java.base@23.0.2/java.io.BufferedInputStream.read1(BufferedInputStream.java:345)
+	at java.base@23.0.2/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base@23.0.2/java.io.BufferedInputStream.read(BufferedInputStream.java:399)
+	at java.base@23.0.2/java.io.FilterInputStream.read(FilterInputStream.java:95)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.internalRead(OutputStreamMonitor.java:249)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@668e7c4a
+
+"Input Stream Monitor for PID 19480 EdgeApp.bndrun" daemon prio=5 Id=1371 WAITING on java.lang.Object@42444f12
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on java.lang.Object@42444f12
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:352)
+	at org.eclipse.debug.internal.core.InputStreamMonitor.writeNext(InputStreamMonitor.java:204)
+	at org.eclipse.debug.internal.core.InputStreamMonitor.write(InputStreamMonitor.java:176)
+	at org.eclipse.debug.internal.core.InputStreamMonitor$$Lambda/0x000001f71e132000.run(Unknown Source)
+	at java.base@23.0.2/java.lang.Thread.runWith(Thread.java:1588)
+	at java.base@23.0.2/java.lang.Thread.run(Thread.java:1575)
+
+"org.eclipse.jdt.internal.ui.text.JavaReconciler" daemon prio=1 Id=1759 TIMED_WAITING on org.eclipse.jface.text.reconciler.DirtyRegionQueue@1aac5cbf
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.jface.text.reconciler.DirtyRegionQueue@1aac5cbf
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler.delay(AbstractReconciler.java:572)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:181)
+
+"Worker-46" prio=5 Id=2353 TIMED_WAITING on org.eclipse.core.internal.jobs.WorkerPool@671e1bfd
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.core.internal.jobs.WorkerPool@671e1bfd
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.core.internal.jobs.WorkerPool.sleep(WorkerPool.java:200)
+	at org.eclipse.core.internal.jobs.WorkerPool.startJob(WorkerPool.java:242)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+"org.eclipse.jdt.internal.ui.text.JavaReconciler" daemon prio=1 Id=2354 TIMED_WAITING on org.eclipse.jface.text.reconciler.DirtyRegionQueue@5b709ddd
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.jface.text.reconciler.DirtyRegionQueue@5b709ddd
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler.delay(AbstractReconciler.java:572)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:181)
+
+"Worker-49" prio=5 Id=2363 TIMED_WAITING on org.eclipse.core.internal.jobs.WorkerPool@671e1bfd
+	at java.base@23.0.2/java.lang.Object.wait0(Native Method)
+	-  waiting on org.eclipse.core.internal.jobs.WorkerPool@671e1bfd
+	at java.base@23.0.2/java.lang.Object.wait(Object.java:378)
+	at org.eclipse.core.internal.jobs.WorkerPool.sleep(WorkerPool.java:200)
+	at org.eclipse.core.internal.jobs.WorkerPool.startJob(WorkerPool.java:242)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+
+!SESSION 2025-05-20 09:54:59.702 -----------------------------------------------
+eclipse.buildId=4.36.0.20250410-0643
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-20 09:55:06.117
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-20 09:55:35.083
+!MESSAGE Logback config file: C:\Users\Administrator\EMS\openems\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-20 09:55:47.966
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-05-20 09:55:48.147
+!MESSAGE Removing PartDescriptorImpl with the "bndtools.openAIView" id and the "OpenAI" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:50.184
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:51.173
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:52.733
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/mongodb/bson/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:53.330
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcutil-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:53.904
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:54.078
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:54.184
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:54.422
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:54.444
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:54.524
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:54.655
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:55.035
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:56.059
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:56.130
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:56.504
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:56.689
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:57.111
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:57.134
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:57.144
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:57.170
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:57.242
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:57.300
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:57.391
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:59.437
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:55:59.497
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:03.551
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:03.603
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:26.915
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:26.927
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:27.141
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:27.144
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:27.169
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:27.307
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:27.355
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:27.361
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:27.405
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:27.406
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:28.406
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:28.450
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:30.496
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:30.545
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:34.598
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 09:56:34.646
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+!SESSION 2025-05-20 11:11:51.184 -----------------------------------------------
+eclipse.buildId=4.36.0.20250410-0643
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-20 11:11:56.614
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-20 11:12:00.501
+!MESSAGE Logback config file: C:\Users\Administrator\EMS\openems\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-20 11:12:06.958
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-05-20 11:12:07.047
+!MESSAGE Removing PartDescriptorImpl with the "bndtools.openAIView" id and the "OpenAI" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:08.413
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:11.575
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:12.410
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/mongodb/bson/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:12.862
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcutil-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:13.299
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:13.680
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:13.795
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:13.907
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:13.932
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:14.345
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:14.453
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:14.457
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:14.772
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:15.402
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:15.425
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:15.431
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:15.545
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:15.905
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:16.012
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:16.015
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:16.060
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:17.000
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:17.065
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:19.111
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:19.158
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:23.204
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:23.608
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:27.996
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:29.145
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:29.612
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:29.622
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:29.765
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:29.770
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:29.911
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:30.019
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:30.698
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:31.036
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:31.416
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:31.416
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:31.798
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:31.850
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:33.913
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:33.964
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:38.016
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:38.066
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 11:12:38.487
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+!SESSION 2025-05-20 13:49:30.232 -----------------------------------------------
+eclipse.buildId=4.36.0.20250410-0643
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-20 13:49:38.937
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-05-20 13:51:28.948
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-20 13:51:31.434
+!MESSAGE Logback config file: C:\Users\Administrator\EMS\openems\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-20 13:51:41.975
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-05-20 13:51:42.176
+!MESSAGE Removing PartDescriptorImpl with the "bndtools.openAIView" id and the "OpenAI" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:44.222
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:44.543
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:45.455
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/mongodb/bson/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:46.039
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcutil-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:46.635
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk18on/maven-metadata.xml
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:46.855
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:46.877
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:47.049
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:47.062
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:48.075
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:48.181
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:48.372
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:48.444
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:49.305
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:49.571
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:49.664
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:49.802
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:49.851
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:50.007
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:50.009
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:51.820
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:51.872
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:55.927
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:51:55.977
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:02.434
+!MESSAGE Download https://repo.maven.apache.org/maven2/xerces/xerces-impl/2.6.2/xerces-impl-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:02.501
+!MESSAGE Download https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.6.2/xml-apis-2.6.2.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:02.545
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-cobertura-plugin/1.3/maven-cobertura-plugin-1.3.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:02.559
+!MESSAGE Download https://repo.maven.apache.org/maven2/maven-plugins/maven-findbugs-plugin/1.3.1/maven-findbugs-plugin-1.3.1.plugin
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:02.738
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:02.846
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:02.860
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:03.125
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:03.281
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:03.285
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:03.329
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/projectreactor/tools/blockhound/1.0.0.RC1/blockhound-1.0.0.RC1.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:03.333
+!MESSAGE Download https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/RELEASE/micrometer-core-RELEASE.jar
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:03.937
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:03.987
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:06.031
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:06.079
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:10.144
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom
+
+!ENTRY bndtools.core 1 0 2025-05-20 13:52:10.203
+!MESSAGE Download https://repo.maven.apache.org/maven2/org/multiverse/multiverse-beta/0.7-RC-1/multiverse-beta-0.7-RC-1.pom.sha1
+
+!ENTRY org.eclipse.core.resources 4 2 2025-05-20 18:54:07.259
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.core.resources.IResourceDelta.findMember(org.eclipse.core.runtime.IPath)" because the return value of "org.eclipse.core.resources.IResourceChangeEvent.getDelta()" is null
+	at bndtools.launch.AbstractOSGiLaunchDelegate.lambda$registerLaunchPropertiesRegenerator$9(AbstractOSGiLaunchDelegate.java:483)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:321)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:311)
+	at org.eclipse.core.internal.events.NotificationManager.handleEvent(NotificationManager.java:287)
+	at org.eclipse.core.internal.resources.Workspace.broadcastEvent(Workspace.java:460)
+	at org.eclipse.core.internal.resources.Resource.broadcastPreDeleteEvent(Resource.java:1893)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:788)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:359)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:150)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:247)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2457)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2482)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:284)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:210)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2457)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2482)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+
+!ENTRY org.eclipse.core.resources 4 2 2025-05-20 18:54:07.261
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.core.resources.IResourceDelta.findMember(org.eclipse.core.runtime.IPath)" because the return value of "org.eclipse.core.resources.IResourceChangeEvent.getDelta()" is null
+	at bndtools.launch.AbstractOSGiLaunchDelegate.lambda$registerLaunchPropertiesRegenerator$9(AbstractOSGiLaunchDelegate.java:483)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:321)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:311)
+	at org.eclipse.core.internal.events.NotificationManager.handleEvent(NotificationManager.java:287)
+	at org.eclipse.core.internal.resources.Workspace.broadcastEvent(Workspace.java:460)
+	at org.eclipse.core.internal.resources.Resource.broadcastPreDeleteEvent(Resource.java:1893)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:788)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:359)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:150)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:247)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2457)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2482)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:284)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:210)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2457)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2482)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2025-05-21 16:47:50.756
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: assertion failed: 
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:121)
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:106)
+	at org.eclipse.jdt.internal.ui.text.correction.proposals.TypeChangeCorrectionProposalCore.<init>(TypeChangeCorrectionProposalCore.java:178)
+	at org.eclipse.jdt.internal.ui.text.correction.proposals.TypeChangeCorrectionProposal.<init>(TypeChangeCorrectionProposal.java:45)
+	at org.eclipse.jdt.internal.ui.text.correction.TypeMismatchSubProcessor.createChangeConstructorTypeProposal(TypeMismatchSubProcessor.java:143)
+	at org.eclipse.jdt.internal.ui.text.correction.TypeMismatchSubProcessor.createChangeConstructorTypeProposal(TypeMismatchSubProcessor.java:1)
+	at org.eclipse.jdt.internal.ui.text.correction.TypeMismatchBaseSubProcessor.collectChangeSenderTypeProposals(TypeMismatchBaseSubProcessor.java:334)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.doEqualNumberOfParameters(UnresolvedElementsBaseSubProcessor.java:2039)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.addParameterMissmatchProposals(UnresolvedElementsBaseSubProcessor.java:1752)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.collectMethodProposals(UnresolvedElementsBaseSubProcessor.java:1478)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsSubProcessor.getMethodProposals(UnresolvedElementsSubProcessor.java:155)
+	at org.eclipse.jdt.internal.ui.text.correction.QuickFixProcessor.process(QuickFixProcessor.java:415)
+	at org.eclipse.jdt.internal.ui.text.correction.QuickFixProcessor.getCorrections(QuickFixProcessor.java:378)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionCollector.safeRun(JavaCorrectionProcessor.java:381)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.run(JavaCorrectionProcessor.java:341)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.process(JavaCorrectionProcessor.java:336)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor.collectCorrections(JavaCorrectionProcessor.java:465)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.getJavaAnnotationFixes(ProblemHover.java:115)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.computeCompletionProposals(ProblemHover.java:89)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.<init>(ProblemHover.java:74)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover.createAnnotationInfo(ProblemHover.java:178)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover.getHoverInfo2(AbstractAnnotationHover.java:754)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.core.resources 4 2 2025-05-22 11:08:43.978
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.core.resources.IResourceDelta.findMember(org.eclipse.core.runtime.IPath)" because the return value of "org.eclipse.core.resources.IResourceChangeEvent.getDelta()" is null
+	at bndtools.launch.AbstractOSGiLaunchDelegate.lambda$registerLaunchPropertiesRegenerator$9(AbstractOSGiLaunchDelegate.java:483)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:321)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:311)
+	at org.eclipse.core.internal.events.NotificationManager.handleEvent(NotificationManager.java:287)
+	at org.eclipse.core.internal.resources.Workspace.broadcastEvent(Workspace.java:460)
+	at org.eclipse.core.internal.resources.Resource.broadcastPreDeleteEvent(Resource.java:1893)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:788)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:359)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:150)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:247)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2457)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2482)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:284)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:210)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2457)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2482)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+
+!ENTRY org.eclipse.core.resources 4 2 2025-05-22 11:08:43.979
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.core.resources.IResourceDelta.findMember(org.eclipse.core.runtime.IPath)" because the return value of "org.eclipse.core.resources.IResourceChangeEvent.getDelta()" is null
+	at bndtools.launch.AbstractOSGiLaunchDelegate.lambda$registerLaunchPropertiesRegenerator$9(AbstractOSGiLaunchDelegate.java:483)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:321)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:311)
+	at org.eclipse.core.internal.events.NotificationManager.handleEvent(NotificationManager.java:287)
+	at org.eclipse.core.internal.resources.Workspace.broadcastEvent(Workspace.java:460)
+	at org.eclipse.core.internal.resources.Resource.broadcastPreDeleteEvent(Resource.java:1893)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:788)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:359)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:150)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:247)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2457)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2482)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:284)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:210)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2457)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2482)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)

@@ -255,6 +255,8 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/io.openems.backend.b2brest" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/io.openems.backend.application" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/io.openems.backend.alerting" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/io.openems.backend.custom" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/io.openems.backend.tariffs.morocco" type="4"/>
 </workingSet>
 <workingSet editPageId="bndtools.core.BndtoolsJavaWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1746141671338_31" label="Bndtools Java Model" name="Bndtools Java Model"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1746118211909_2" label="Window Working Set" name="Aggregate for window 1746118211909"/>

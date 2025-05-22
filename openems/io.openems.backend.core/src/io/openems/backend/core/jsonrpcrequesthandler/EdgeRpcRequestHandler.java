@@ -6,13 +6,19 @@ import static io.openems.common.utils.JsonUtils.getAsString;
 import static java.util.Collections.emptyMap;
 
 import java.io.IOException;
+import java.time.ZonedDateTime;
 import java.time.temporal.ChronoUnit;
 import java.util.Collections;
 import java.util.Map;
 import java.util.Optional;
+import java.util.SortedMap;
+import java.util.TreeMap;
 import java.util.TreeSet;
 import java.util.UUID;
 import java.util.concurrent.CompletableFuture;
+
+import com.google.gson.JsonElement;
+import com.google.gson.JsonPrimitive;
 
 import io.openems.backend.common.metadata.AppCenterHandler;
 import io.openems.backend.common.metadata.Metadata.GenericSystemLog;
@@ -26,6 +32,7 @@ import io.openems.common.jsonrpc.request.ComponentJsonApiRequest;
 import io.openems.common.jsonrpc.request.EdgeRpcRequest;
 import io.openems.common.jsonrpc.request.GetEdgeConfigRequest;
 import io.openems.common.jsonrpc.request.QueryHistoricTimeseriesDataRequest;
+import io.openems.common.jsonrpc.request.QueryHistoricTimeseriesEnergyPerPeriodCustomRequest;
 import io.openems.common.jsonrpc.request.QueryHistoricTimeseriesEnergyPerPeriodRequest;
 import io.openems.common.jsonrpc.request.QueryHistoricTimeseriesEnergyRequest;
 import io.openems.common.jsonrpc.request.QueryHistoricTimeseriesExportXlxsRequest;
@@ -45,6 +52,7 @@ import io.openems.common.types.ChannelAddress;
 public class EdgeRpcRequestHandler {
 
 	private final CoreJsonRpcRequestHandlerImpl parent;
+//	private static final double TARIFF_PER_KWH = 0.12;
 
 	protected EdgeRpcRequestHandler(CoreJsonRpcRequestHandlerImpl parent) {
 		this.parent = parent;
@@ -82,7 +90,14 @@ public class EdgeRpcRequestHandler {
 
 		case QueryHistoricTimeseriesEnergyPerPeriodRequest.METHOD -> this.handleQueryHistoricEnergyPerPeriodRequest(
 				edgeId, user, QueryHistoricTimeseriesEnergyPerPeriodRequest.from(request));
+		
 
+//		case QueryHistoricTimeseriesEnergyPerPeriodCustomRequest.METHOD -> this.handleQueryHistoricEnergyPerPeriodCustomRequest(
+//						edgeId, user,
+//						QueryHistoricTimeseriesEnergyPerPeriodCustomRequest.from(request));
+		
+		
+		
 		case QueryHistoricTimeseriesExportXlxsRequest.METHOD -> this.handleQueryHistoricTimeseriesExportXlxsRequest(
 				edgeId, user, QueryHistoricTimeseriesExportXlxsRequest.from(request));
 
@@ -264,6 +279,69 @@ public class EdgeRpcRequestHandler {
 		return CompletableFuture
 				.completedFuture(new QueryHistoricTimeseriesEnergyPerPeriodResponse(request.getId(), data));
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+//	
+//	/*
+//	 * Handles "queryHistoricTimeseriesEnergyPerPeriodCustom".
+//	 */
+//	private CompletableFuture<JsonrpcResponseSuccess> handleQueryHistoricEnergyPerPeriodCustomRequest(
+//	        String edgeId,
+//	        User user,
+//	        QueryHistoricTimeseriesEnergyPerPeriodCustomRequest request) throws OpenemsNamedException {
+//
+//	    // 1. Get the plain kWh series (ZonedDateTime → ChannelAddress → JsonElement)
+//	    SortedMap<ZonedDateTime, SortedMap<ChannelAddress, JsonElement>> energyMap =
+//	            this.parent.timedataManager.queryHistoricEnergyPerPeriod(
+//	                    edgeId,
+//	                    request.getFromDate(),
+//	                    request.getToDate(),
+//	                    request.getChannels(),
+//	                    request.getResolution());
+//
+//	    // 2. Convert kWh → € (JsonElement → JsonPrimitive)
+//	    SortedMap<ZonedDateTime, SortedMap<ChannelAddress, JsonElement>> priceMap = new TreeMap<>();
+//
+//	    energyMap.forEach((bucket, channelValues) -> {
+//	        SortedMap<ChannelAddress, JsonElement> pricesForBucket = new TreeMap<>();
+//	        channelValues.forEach((ch, kWhElem) -> {
+//	            if (kWhElem != null && kWhElem.isJsonPrimitive() && kWhElem.getAsJsonPrimitive().isNumber()) {
+//	                double price = kWhElem.getAsDouble() * TARIFF_PER_KWH;
+//	                pricesForBucket.put(ch, new JsonPrimitive(price));
+//	            } else {
+//	                // keep null or non-numeric values untouched
+//	                pricesForBucket.put(ch, kWhElem);
+//	            }
+//	        });
+//	        priceMap.put(bucket, pricesForBucket);
+//	    });
+//
+//	    // 3. Wrap in the *existing* response class (no “Custom” DTO necessary)
+//	    return CompletableFuture.completedFuture(
+//	            new QueryHistoricTimeseriesEnergyPerPeriodResponse(request.getId(), priceMap));
+//	}
+
+	
 
 	/**
 	 * Handles a {@link QueryHistoricTimeseriesExportXlxsRequest}.

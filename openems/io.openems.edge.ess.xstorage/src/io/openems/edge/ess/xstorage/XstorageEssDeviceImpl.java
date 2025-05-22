@@ -18,8 +18,10 @@ import io.openems.edge.bridge.modbus.api.AbstractOpenemsModbusComponent;
 import io.openems.edge.bridge.modbus.api.BridgeModbus;
 import io.openems.edge.bridge.modbus.api.ModbusComponent;
 import io.openems.edge.bridge.modbus.api.ModbusProtocol;
+import io.openems.edge.bridge.modbus.api.element.SignedDoublewordElement;
 import io.openems.edge.bridge.modbus.api.element.SignedWordElement;
 import io.openems.edge.bridge.modbus.api.element.UnsignedWordElement;
+import io.openems.edge.bridge.modbus.api.element.WordOrder;
 import io.openems.edge.bridge.modbus.api.task.FC16WriteRegistersTask;
 import io.openems.edge.bridge.modbus.api.task.FC3ReadRegistersTask;
 import io.openems.edge.common.component.OpenemsComponent;
@@ -126,6 +128,13 @@ public class XstorageEssDeviceImpl extends AbstractOpenemsModbusComponent implem
 					    m(ElectricityMeter.ChannelId.POWER_FACTOR_L3, new SignedWordElement(0x0030)), // ph3PowerFactor
 					    m(ElectricityMeter.ChannelId.POWER_FACTOR, new SignedWordElement(0x0031)) // ph3PowerFactor
 						),
+				
+				new FC3ReadRegistersTask(0x0063, Priority.HIGH,
+		        		m(XstorageEss.ChannelId.CHARGE_ACTIVE_ENERGY, new SignedDoublewordElement(0x00063).wordOrder(WordOrder.LSWMSW)),
+			            m(XstorageEss.ChannelId.CHARGE_REACTIVE_ENERGY, new SignedDoublewordElement(0x0065).wordOrder(WordOrder.LSWMSW)),
+			            m(XstorageEss.ChannelId.DISCHARGE_ACTIVE_ENERGY, new SignedDoublewordElement(0x00067).wordOrder(WordOrder.LSWMSW)),
+			            m(XstorageEss.ChannelId.DISCHARGE_REACTIVE_ENERGY, new SignedDoublewordElement(0x0069).wordOrder(WordOrder.LSWMSW))
+		            ),
 
 
 				new FC16WriteRegistersTask(0x0032, //

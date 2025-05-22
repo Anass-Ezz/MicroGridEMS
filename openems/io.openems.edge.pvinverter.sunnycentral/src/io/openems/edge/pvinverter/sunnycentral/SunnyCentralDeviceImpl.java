@@ -18,8 +18,10 @@ import io.openems.edge.bridge.modbus.api.AbstractOpenemsModbusComponent;
 import io.openems.edge.bridge.modbus.api.BridgeModbus;
 import io.openems.edge.bridge.modbus.api.ModbusComponent;
 import io.openems.edge.bridge.modbus.api.ModbusProtocol;
+import io.openems.edge.bridge.modbus.api.element.SignedDoublewordElement;
 import io.openems.edge.bridge.modbus.api.element.SignedWordElement;
 import io.openems.edge.bridge.modbus.api.element.UnsignedWordElement;
+import io.openems.edge.bridge.modbus.api.element.WordOrder;
 import io.openems.edge.bridge.modbus.api.task.FC16WriteRegistersTask;
 import io.openems.edge.bridge.modbus.api.task.FC3ReadRegistersTask;
 import io.openems.edge.common.component.OpenemsComponent;
@@ -100,6 +102,10 @@ public class SunnyCentralDeviceImpl extends AbstractOpenemsModbusComponent imple
 					    m(ElectricityMeter.ChannelId.VOLTAGE, new SignedWordElement(0x001B)),
 					    m(ElectricityMeter.ChannelId.CURRENT, new SignedWordElement(0x001C))
 						),
+				new FC3ReadRegistersTask(0x0063, Priority.HIGH,
+		        		m(SunnyCentralPvInverter.ChannelId.ACTIVE_ENERGY, new SignedDoublewordElement(0x00063).wordOrder(WordOrder.LSWMSW)),
+			            m(SunnyCentralPvInverter.ChannelId.REACTIVE_ENERGY, new SignedDoublewordElement(0x0065).wordOrder(WordOrder.LSWMSW))
+		            ),
 
 
 				new FC16WriteRegistersTask(0x001E, //
@@ -112,7 +118,7 @@ public class SunnyCentralDeviceImpl extends AbstractOpenemsModbusComponent imple
 
 	@Override
 	public String debugLog() {
-		return "PV Power: " + this.getMaxActivePower().toString();
+		return "PV Power: " + this.getDcPvPower().toString();
 	}
 
 	@Override

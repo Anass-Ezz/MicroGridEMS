@@ -67,6 +67,33 @@ public interface XstorageEss extends OpenemsComponent {
         
         
         
+        
+        CHARGE_ACTIVE_ENERGY(Doc.of(OpenemsType.INTEGER) //
+				.unit(Unit.WATT_HOURS) //
+				.persistencePriority(PersistencePriority.HIGH)), //
+		
+        CHARGE_REACTIVE_ENERGY(Doc.of(OpenemsType.INTEGER) //
+				.unit(Unit.VOLT_AMPERE_REACTIVE_HOURS) //
+				.persistencePriority(PersistencePriority.HIGH)), //
+        
+        DISCHARGE_ACTIVE_ENERGY(Doc.of(OpenemsType.INTEGER) //
+				.unit(Unit.WATT_HOURS) //
+				.persistencePriority(PersistencePriority.HIGH)), //
+		
+        DISCHARGE_REACTIVE_ENERGY(Doc.of(OpenemsType.INTEGER) //
+				.unit(Unit.VOLT_AMPERE_REACTIVE_HOURS) //
+				.persistencePriority(PersistencePriority.HIGH)), //
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 
         BATTERY_PACK_POWER(Doc.of(OpenemsType.INTEGER)
                 .unit(Unit.WATT)

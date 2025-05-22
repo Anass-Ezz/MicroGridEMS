@@ -18,7 +18,9 @@ import io.openems.edge.bridge.modbus.api.AbstractOpenemsModbusComponent;
 import io.openems.edge.bridge.modbus.api.BridgeModbus;
 import io.openems.edge.bridge.modbus.api.ModbusComponent;
 import io.openems.edge.bridge.modbus.api.ModbusProtocol;
+import io.openems.edge.bridge.modbus.api.element.SignedDoublewordElement;
 import io.openems.edge.bridge.modbus.api.element.SignedWordElement;
+import io.openems.edge.bridge.modbus.api.element.WordOrder;
 import io.openems.edge.bridge.modbus.api.task.FC3ReadRegistersTask;
 import io.openems.edge.common.component.OpenemsComponent;
 import io.openems.edge.common.taskmanager.Priority;
@@ -87,13 +89,18 @@ public class InnovxMeterDeviceImpl extends AbstractOpenemsModbusComponent implem
 	            m(ElectricityMeter.ChannelId.CURRENT_L2, new SignedWordElement(0x000C)),
 	            m(ElectricityMeter.ChannelId.CURRENT_L3, new SignedWordElement(0x000D)),
 	            m(ElectricityMeter.ChannelId.CURRENT, new SignedWordElement(0x000E))
-	        )
+	        ),
+	        
+	        new FC3ReadRegistersTask(0x0063, Priority.HIGH,
+        		m(InnovxMeterDevice.ChannelId.ACTIVE_ENERGY, new SignedDoublewordElement(0x00063).wordOrder(WordOrder.LSWMSW)),
+	            m(InnovxMeterDevice.ChannelId.REACTIVE_ENERGY, new SignedDoublewordElement(0x0065).wordOrder(WordOrder.LSWMSW))
+            )
 	    );
 	}
 
 	@Override
 	public String debugLog() {
-		return this.getActivePower().toString();
+		return this.getActiveEnergy().toString();
 	}
 
 	@Override

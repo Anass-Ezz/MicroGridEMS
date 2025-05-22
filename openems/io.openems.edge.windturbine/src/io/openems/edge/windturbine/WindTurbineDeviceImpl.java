@@ -18,7 +18,9 @@ import io.openems.edge.bridge.modbus.api.AbstractOpenemsModbusComponent;
 import io.openems.edge.bridge.modbus.api.BridgeModbus;
 import io.openems.edge.bridge.modbus.api.ModbusComponent;
 import io.openems.edge.bridge.modbus.api.ModbusProtocol;
+import io.openems.edge.bridge.modbus.api.element.SignedDoublewordElement;
 import io.openems.edge.bridge.modbus.api.element.SignedWordElement;
+import io.openems.edge.bridge.modbus.api.element.WordOrder;
 import io.openems.edge.bridge.modbus.api.task.FC3ReadRegistersTask;
 import io.openems.edge.common.component.OpenemsComponent;
 import io.openems.edge.common.taskmanager.Priority;
@@ -104,7 +106,12 @@ public class WindTurbineDeviceImpl extends AbstractOpenemsModbusComponent implem
 	            m(ElectricityMeter.ChannelId.CURRENT_L2, new SignedWordElement(0x001D)),
 	            m(ElectricityMeter.ChannelId.CURRENT_L3, new SignedWordElement(0x001E)),
 	            m(ElectricityMeter.ChannelId.CURRENT, new SignedWordElement(0x001F))
-	        )
+	        ),
+	        
+	        new FC3ReadRegistersTask(0x0063, Priority.HIGH,
+        		m(WindTurbine.ChannelId.ACTIVE_ENERGY, new SignedDoublewordElement(0x00063).wordOrder(WordOrder.LSWMSW)),
+	            m(WindTurbine.ChannelId.REACTIVE_ENERGY, new SignedDoublewordElement(0x0065).wordOrder(WordOrder.LSWMSW))
+            )
 	    );
 	}
 

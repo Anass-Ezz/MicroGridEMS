@@ -9,6 +9,8 @@ import org.osgi.service.component.annotations.Deactivate;
 import org.osgi.service.component.annotations.Reference;
 import org.osgi.service.metatype.annotations.Designate;
 
+import com.google.common.base.Optional;
+
 import io.openems.common.exceptions.OpenemsError.OpenemsNamedException;
 import io.openems.edge.common.component.AbstractOpenemsComponent;
 import io.openems.edge.common.component.OpenemsComponent;
@@ -73,13 +75,13 @@ public class ControllerEssDemoImpl extends AbstractOpenemsComponent implements X
 	
 	@Override
 	public void run() throws OpenemsNamedException {
-//		ess.getRequestActivePowerChannel().setNextWriteValue(0);
+		ess.getRequestActivePowerChannel().setNextWriteValue(0);
 	}
 	
 	
-//	@Override
-//	public String debugLog() {
-//		return "L:" + ess.getRequestedActivePower().asString();
-//	}
+	@Override
+	public String debugLog() {
+		return "L:" + ess.getRequestedActivePower().asString();
+	}
 	
 }

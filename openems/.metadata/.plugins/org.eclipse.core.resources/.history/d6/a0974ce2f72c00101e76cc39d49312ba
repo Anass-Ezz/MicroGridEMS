@@ -1,7 +1,0 @@
-package io.openems.edge.windturbine.api;
-
-import io.openems.edge.common.component.OpenemsComponent;
-
-public interface WindTurbine extends OpenemsComponent {
-
-}

@@ -4,6 +4,8 @@
 	<section name="java.lang.Class">
 		<item key="replaceBarOpen" value="false"/>
 		<list key="findhistory">
+			<item value="QueryHistoricTimeseriesDataRequest"/>
+			<item value="EdgeRpcRequestHandler"/>
 			<item value="factor"/>
 			<item value="Electri"/>
 			<item value="appa"/>
